@@ -7,3 +7,4 @@ export { default as Textfield } from './Textfield';
 export { default as Checkbox } from './Checkbox';
 export { default as FormField } from './FormField';
 export { default as IconToggle } from './IconToggle';
+export { Menu, MenuItem } from './Menu';
